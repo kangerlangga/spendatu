@@ -3,9 +3,9 @@
     <ul class="nav">
         <?php if ($jK > 0) : ?>
         @foreach ($Kontak as $K)
-        <li class="nav-item" style="margin: 0px">
+        {{-- <li class="nav-item" style="margin: 0px">
             <a class="nav-link" target="_blank" href="#"><i class="fa-brands fa-fw fa-whatsapp"></i> 0{{ $K->telp_kontak }}</a>
-        </li>
+        </li> --}}
         <li class="nav-item" style="margin: 0px">
             <a class="nav-link" target="_blank" href="mailto:{{ $K->email_kontak }}"><i class="fa-solid fa-fw fa-envelope"></i> {{ $K->email_kontak }}</a>
         </li>

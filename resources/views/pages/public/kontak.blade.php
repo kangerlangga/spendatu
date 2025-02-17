@@ -58,13 +58,13 @@
                     </div>
                     <p class="mb-2 fw-bold">Email :</p>
                     <p class="mb-3">{{ $K->email_kontak }}</p>
-                    <p class="mb-2 fw-bold">Kontak :</p>
+                    {{-- <p class="mb-2 fw-bold">Kontak :</p>
                     <p class="mb-1">Telepon : +62 {{ $K->telp_kontak }}
                         {{ $K->wa_kontak == 'Tersedia' ? '(Whatsapp)' : '' }}
                     </p>
                     <?php if ($K->wa_kontak == 'Tersedia') : ?>
                     <a href="https://api.whatsapp.com/send/?phone=62{{ $K->telp_kontak }}" target="_blank" class="btn btn-success">Chat Sekarang!</a>
-                    <?php endif;?>
+                    <?php endif;?> --}}
                 </div>
             </div>
             <div class="col">
