@@ -12,7 +12,7 @@
         @endforeach
         <?php endif;?>
         <li class="nav-item" style="margin: 0px">
-            <a class="nav-link" target="_blank" href="https://smp-ppdbsidoarjo.id"><i class="fa-solid fa-fw fa-book"></i> PPDB</a>
+            <a class="nav-link" target="_blank" href="https://smp-spmbsidoarjo.id"><i class="fa-solid fa-fw fa-book"></i> PPDB</a>
         </li>
     </ul>
     </div>
