@@ -29,7 +29,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="#">
                     <h3 style="color: #000;">SMP NEGERI 2 TULANGAN</h3>
-                    <h5 style="color: #000;">Pencetak Generasi Teladan dan Berprestasi</h5>
+                    <h5 style="color: #000;">Membangun Karakter Peserta Didik Cerdas Spiritual, Akademis, Emosional</h5>
                 </a>
             </li>
         </ul>
